@@ -18,8 +18,3 @@ We welcome contributions to this repository! If you have a Bash script or note t
 📝 License:
 This repository is distributed under the MIT License. See the LICENSE file for more information.
 
-👨‍💻 Authors:
-
-John Smith (@johnsmith)
-Jane Doe (@janedoe)
-Thank you for checking out Bash_scripts_Adv! We hope you find it useful.
