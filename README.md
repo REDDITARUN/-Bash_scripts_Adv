@@ -7,7 +7,7 @@ This is a repository dedicated to various Bash scripts that we have tested and f
 This directory contains various Bash scripts that we have tested and found useful.
 
 ### Notes: 
-This directory contains notes on Bash scripting from the basics to more advanced topics. To View Chapter wise notes (Click Here!)[https://redditarun.github.io/Bash_scripts_Adv/]
+This directory contains notes on Bash scripting from the basics to more advanced topics. To View Chapter wise notes [Click Here!][https://redditarun.github.io/Bash_scripts_Adv/]
 
 ### LICENSE: 
 The license under which this repository is distributed.
